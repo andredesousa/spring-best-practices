@@ -1,5 +1,8 @@
 # Spring Best Practices
 
+Spring is an application framework and inversion of control container for the Java platform.
+These tips are based on Quarkus documentation, books, articles and professional experience.
+
 ## Table of Contents
 
 1. [Follow code conventions](#follow-code-conventions)
@@ -290,6 +293,26 @@ If you've written tests with Spring or Spring Boot in the past, you'll probably 
 You just need to use JUnit and Mockito.
 It is also recommended that you keep integration tests separate from unit tests and not run them alongside unit tests.
 
-## Notes
+## Bibliography
 
-This document is not finalized.
+- [16 Best Practices for Spring Boot in Production](https://www.springcloud.io/post/2022-08/springboot-best-practices/)
+- [A Guide to Caching in Spring](https://www.baeldung.com/spring-cache-tutorial)
+- [Best Practices for How to Test Spring Boot Applications](https://tanzu.vmware.com/developer/guides/spring-boot-testing/)
+- [Best Practices for Structuring Spring Boot Application](https://www.geeksforgeeks.org/best-practices-for-structuring-spring-boot-application/)
+- [Database Migrations with Flyway](https://www.baeldung.com/database-migrations-with-flyway)
+- [Documenting a Spring REST API Using OpenAPI 3.0](https://www.baeldung.com/spring-rest-openapi-documentation)
+- [Error Handling for REST with Spring](https://www.baeldung.com/exception-handling-for-rest-with-spring)
+- [Guide to Spring 5 WebFlux](https://www.baeldung.com/spring-webflux)
+- [Introduction to Spring Data JPA](https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa)
+- [Java Bean Validation](https://docs.spring.io/spring-framework/reference/core/validation/beanvalidation.html)
+- [Logging in Spring Boot](https://www.baeldung.com/spring-boot-logging)
+- [Properties with Spring and Spring Boot](https://www.baeldung.com/properties-with-spring)
+- [Spring Boot Microservices Coding Style Guidelines and Best Practices](https://medium.com/codex/spring-boot-microservices-coding-style-guidelines-and-best-practices-1dec229161c8)
+- [Spring Boot Starters](https://www.javatpoint.com/spring-boot-starters)
+- [Spring Boot Tips, Tricks and Techniques](https://piotrminkowski.com/2021/01/13/spring-boot-tips-tricks-and-techniques/)
+- [Spring Profiles](https://www.baeldung.com/spring-profiles)
+- [Testing in Spring Boot](https://www.baeldung.com/spring-boot-testing)
+- [Tips, Tricks, and Springs: Best Spring Practices](https://wearenotch.com/tips-tricks-and-springs-best-spring-practices/)
+- [Top 10 Spring Security best practices for Java developers](https://www.synopsys.com/blogs/software-security/spring-security-best-practices/)
+- [Top Spring Framework Mistakes](https://www.toptal.com/spring/top-10-most-common-spring-framework-mistakes)
+- [Use Liquibase to Safely Evolve Your Database Schema](https://www.baeldung.com/liquibase-refactor-schema-of-java-app)
