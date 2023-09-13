@@ -1,7 +1,7 @@
 # Spring Best Practices
 
 Spring is an application framework and inversion of control container for the Java platform.
-These tips are based on Quarkus documentation, books, articles and professional experience.
+These tips are based on Spring documentation, books, articles and professional experience.
 
 ## Table of Contents
 
